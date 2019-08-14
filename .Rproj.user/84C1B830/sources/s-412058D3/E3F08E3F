@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565783816644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2992498468",
+    "id" : "E3F08E3F",
+    "lastKnownWriteTime" : 1565783951,
+    "last_content_update" : 1565783951420,
+    "path" : "~/GitHub/Practice/2019-08-14.Rmd",
+    "project_path" : "2019-08-14.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
